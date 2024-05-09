@@ -1,0 +1,10 @@
+.todo-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .priority-high {
+    background-color: red;
+  }
+  
